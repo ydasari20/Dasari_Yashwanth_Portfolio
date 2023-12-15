@@ -2,26 +2,63 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
+    <title> Portfolio </title>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#resume">Resume</a></li>
-                <li><a href="#blog">Blog</a></li>
-            </ul>
-        </nav>
-    </header>
-    
-    <section id="home">
+    <header>    
+        <img src="https://github.com/ydasari20/Dasari_Yashwanth_Portfolio/blob/main/Phot.jpg" alt="Professional Picture">
         <h1>Yashwanth Dasari</h1>
-        <p> Graduate Student | Aspiring Data Analyst | Masters in Advanced Data Analytics </p>
-        <img src="C:\Users\Yashwanth\Downloads\354      inst.jpg" alt="Professional Picture">   
-        <p>Contact: yashwanthdasari4@email.com</p>
+        <p> Aspiring Data Analyst | Graduate Student at University of North Texas | Master's in Advanced Data Analytics </p>
+        <p> I am a detail - oriented and highly motivated Advanced Data Analytics Master's student and have an undergraduate degree in Computer Science.</p>
+        <p> Eagerly waiting to apply mt analytical skills, statistical expertise, and programming knowledge to drive data-driven decision-making to help solve key organizational and product problems.</p>
+    </header>
+
+    <section id="Contact">
+        <h2> Contact Information </h2>
+         <p> Phone Number: (774) 623 - 9103</p>
+        <p>Address: Irving, TX</p>
+        <p>Email: yashwanthdasari4@gmail.com</p>
     </section>
+
+    <section id="Resume">
+        <h2> Resume </h2>
+         <a href="https://github.com/ydasari20/Dasari_Yashwanth_Portfolio/blob/main/Yashwanth%20Dasari%20Resume.pdf" download> Download Resume </a>+
+    </section>
+
+    <section id="Projects">
+        <h2> Projects </h2>
+
+        <h2> Project 1: Customer Churn Prediction </h2>
+        <p> Description: ●	Developed a predictive model to identify potential customer churn for a telecom company using machine learning algorithms. 
+            ●	Achieved a 90% accuracy rate, resulting in a 15% reduction in customer churn. </p>
+
+       <h2> Project 2: Market Basket Analysis </h2>
+        <p> Description: ●	Analyzed customer transaction data to identify purchasing patterns and generate product recommendations.
+            ●	Implemented the Apriori algorithm to discover frequent item sets and association rules.
+            </p>
+
+        <h2> Project 3: Sentiment Analysis on Social Media Data </h2>
+        <p> Description: ●	Conducted sentiment analysis on Twitter data to gauge public sentiment towards a product launch.
+            ●	Utilized natural language processing techniques to classify tweets as positive, negative, or neutral.</p>
+
+        <h2> Project 4: Phishing URL Detection </h2>
+        <p> Description: ●	Trained a model to detect if a given URL is spam.
+            ●	Utilized libraries in Python to train the model.
+            </p>
+
+        <h2> Project 5: Home Automation (IOT) </h2>
+        <p> Description: ●	Developed a working model that contains a fan, a socket and a light which can be controlled using any web browser.
+            ●	Arduino Boards and ESP were used in the making process.
+            </p>
+    </section>
+
+    <section id="blog">
+        <!-- Blog Section -->
+        <h2>Blog</h2>
+        <!-- Showcase your blog posts here -->
+    </section>
+
+    <!-- Additional sections or content as per your preference -->
 
 </body>
 </html>
