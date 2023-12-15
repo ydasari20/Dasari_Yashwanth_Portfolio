@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#resume">Resume</a></li>
+                <li><a href="#blog">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h1>Yashwanth Dasari</h1>
+        <p> Graduate Student | Aspiring Data Analyst | Masters in Advanced Data Analytics </p>
+        <img src="C:\Users\Yashwanth\Downloads\354      inst.jpg" alt="Professional Picture">   
+        <p>Contact: yashwanthdasari4@email.com</p>
+    </section>
+
+</body>
+</html>
